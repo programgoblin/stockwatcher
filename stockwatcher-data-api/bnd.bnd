@@ -1,0 +1,4 @@
+-exportcontents: \
+        de.crazyforge.stockwatcher.data.api, \
+        de.crazyforge.stockwatcher.data.types
+-sources: true
